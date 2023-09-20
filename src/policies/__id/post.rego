@@ -13,6 +13,8 @@ allowed {
 	props.department == "Operations"
 }
 
+# Ravi demo
+
 # allowed {
 # 	directory.is_manager_of(input.user.key, input.resource.id)
 # }
