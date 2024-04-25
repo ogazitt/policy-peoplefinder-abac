@@ -14,7 +14,7 @@ allowed {
 }
 
 # allowed {
-# 	directory.is_manager_of(input.user.key, input.resource.id)
+# 	directory.is_manager_of(input.user.id, input.resource.id)
 # }
 
 enabled {
